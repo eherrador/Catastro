@@ -41,7 +41,7 @@ function CargaFusionTableTlaxcala() {
         heatmap: { enabled: false },
         query: {
             select: "col9",
-            from: "1ObphBZ4cED5ubY8833bfJR2rCefMVvMKsjf1UkG0",
+            from: "1pJYiq7AJ8lSBnIPVX3rBvThe9NLESH72lB2AO0Jb",
             where: ""
         },
         options: {
